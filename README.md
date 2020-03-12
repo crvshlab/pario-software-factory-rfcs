@@ -4,13 +4,13 @@ Many changes, including bug fixes and documentation improvements can be
 implemented and reviewed via the normal GitHub pull request workflow.
 
 Some changes though are "substantial", and we ask that these be put
-through a bit of a design process and produce a consensus among the React
-core team.
+through a bit of a design process and produce a consensus among the Crvsh 
+team.
 
 The "RFC" (request for comments) process is intended to provide a
 consistent and controlled path for new features to enter the project.
 
-[Active RFC List](https://github.com/crvshlab/pario-rfcs/pulls)
+[Active RFC List](https://github.com/crvshlab/pario-software-factory-rfcs/pulls)
 
 Pario is still **actively developing** this process, and it will still change as
 more features are implemented.
